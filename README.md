@@ -10,3 +10,5 @@ npm run dev
 
 za potvrdu u lokalnom repozitoriju koristimo git add . , git commit -m "poruka"
 te za pushanje koristimo git push
+
+git push
